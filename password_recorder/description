@@ -1,0 +1,20 @@
+In this Project, I created a password recorder where you can recored username and password. The password is
+recorded in encrypted in from which you can check in the passowrd_list file
+Key_key file is created, once you uncomment the commented code.
+After you have recorded the password, you can view it by pressing view. The passowrd can be viewed in the decrypted form. 
+
+Steps to run:
+
+Once you have downloaded the code
+delete the password_list and key_key file
+uncomment the commented code
+and run the program
+after running, key_key file will be created
+Again, comment the code, else you will face the problem
+And run the code, you will be asked for master code, if have not set any credential for it. So press any key
+And then type 'add' and enter 'username' and 'password'
+you can see the recorded data in encrypted form.
+
+To view the recorded data, type 'view' and you can see the username and password in decrypted form.
+
+Thank you Hope you understand
