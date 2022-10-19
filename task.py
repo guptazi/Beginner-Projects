@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-url= 'https://codewithharry.com'
+url= 'https://annapurnapost.com'
 
-#step 1 get the html
+
 
 r=requests.get(url)
 htmlcontent=r.content
